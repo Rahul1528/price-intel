@@ -1,0 +1,12 @@
+streamlit
+pandas
+altair
+pillow
+python-dotenv
+requests
+beautifulsoup4
+lxml
+torch
+torchvision
+transformers
+sqlalchemy
